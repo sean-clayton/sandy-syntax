@@ -1,8 +1,9 @@
 {
   "name": "sandy-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A medium-contrast, low saturation color scheme.",
+  "author": "Sean Clayton",
   "repository": "https://github.com/sean-clayton/sandy-syntax",
   "license": "ISC",
   "engines": {
